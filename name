@@ -2,5 +2,7 @@ class public Priyanka{
 public static void main(String args[]){
 System.out.pritln("Hiiiii!!!!!!!!");
 }
-
+for(int i=0;i>10;i++){
+System.out.pritln(i);
+}
 }
